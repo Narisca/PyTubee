@@ -12,7 +12,7 @@
 # Programın indirilmesi ve kurulması
 
 ```
-git clone https://github.com/Narisca/PyTubee/
+git clone https://github.com/harveyspc/PyTubee/
 cd PyTubee
 pip3 install -r requirements.txt
 ```
